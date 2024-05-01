@@ -2,7 +2,7 @@
 
 Este projeto visa proporcionar uma experiência imersiva de visualização de móveis em ambientes reais utilizando Realidade Aumentada (AR). Utiliza Blender para modelagem e AR.js para renderização em dispositivos móveis e navegadores compatíveis.
 
-## Descrição
+## Equipe
 
 - Lucas Miranda Leal
 - Pedro Henrique Alves Luz

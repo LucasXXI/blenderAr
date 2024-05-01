@@ -16,24 +16,11 @@
 		{
 			"mesh":0,
 			"name":"Cube",
-			"rotation":[
-				0.7071068286895752,
-				0,
-				0,
-				0.7071068286895752
-			],
 			"scale":[
 				-2.97275447845459,
 				-0.24921175837516785,
 				-3.1182339191436768
 			]
-		}
-	],
-	"materials":[
-		{
-			"doubleSided":true,
-			"name":"Material",
-			"pbrMetallicRoughness":{}
 		}
 	],
 	"meshes":[
@@ -46,8 +33,7 @@
 						"NORMAL":1,
 						"TEXCOORD_0":2
 					},
-					"indices":3,
-					"material":0
+					"indices":3
 				}
 			]
 		}

@@ -16,11 +16,33 @@
 		{
 			"mesh":0,
 			"name":"Cube",
+			"rotation":[
+				0,
+				0,
+				1,
+				7.549789415861596e-08
+			],
 			"scale":[
 				-2.97275447845459,
 				-0.24921175837516785,
 				-3.1182339191436768
 			]
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"name":"Material",
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[
+					0.800000011920929,
+					0.800000011920929,
+					0.800000011920929,
+					1
+				],
+				"metallicFactor":0,
+				"roughnessFactor":0.5
+			}
 		}
 	],
 	"meshes":[
@@ -33,7 +55,8 @@
 						"NORMAL":1,
 						"TEXCOORD_0":2
 					},
-					"indices":3
+					"indices":3,
+					"material":0
 				}
 			]
 		}

@@ -4,6 +4,11 @@ Este projeto visa proporcionar uma experiência imersiva de visualização de m�
 
 ## Descrição
 
+- Lucas Miranda Leal
+- Pedro Henrique Alves Luz
+
+## Descrição
+
 A aplicação permite aos usuários visualizar móveis, como cadeiras e mesas, em ambientes reais por meio da tecnologia de Realidade Aumentada. Isso proporciona uma experiência interativa e realista de como os móveis ficariam em seus próprios espaços.
 
 ## Funcionalidades
